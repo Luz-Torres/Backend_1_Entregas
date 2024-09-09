@@ -1,0 +1,210 @@
+[
+    {
+        "id": "1c05ad52-f546-42c8-9300-2f0b138d2b1e",
+        "title": "El señor de los anillos: La comunidad del anillo",
+        "description": "Primera parte de la trilogía de El señor de los anillos, donde Frodo comienza su travesía para destruir el Anillo Único.",
+        "code": "LOTR001",
+        "price": 8600,
+        "status": true,
+        "stock": 7,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/lordofrings1.webp"
+        ]
+    },
+    {
+        "id": "7a07f9e9-c9f2-4bda-8b6e-f8d04dd4f9e4",
+        "title": "El señor de los anillos: Las dos torres",
+        "description": "Segunda parte de la trilogía de El señor de los anillos, donde la comunidad del anillo se enfrenta a nuevos desafíos.",
+        "code": "LOTR002",
+        "price": 8500,
+        "status": true,
+        "stock": 5,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/lordofrings2.webp"
+        ]
+    },
+    {
+        "id": "8c56d8e1-d859-445d-b9b4-4b9872a56d5b",
+        "title": "El señor de los anillos: El retorno del rey",
+        "description": "La épica conclusión de la trilogía de El señor de los anillos, donde Frodo y Sam llegan a Mordor para destruir el Anillo Único.",
+        "code": "LOTR003",
+        "price": 8100,
+        "status": true,
+        "stock": 6,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/lordofrings3.webp"
+        ]
+    },
+    {
+        "id": "b89f5c95-3842-4d2e-8987-cfcf40537c45",
+        "title": "El Silmarillion",
+        "description": "Un compendio de historias del mundo creado por Tolkien, que narran el origen de la Tierra Media y sus mitos.",
+        "code": "LOTR004",
+        "price": 8000,
+        "status": true,
+        "stock": 2,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/elsilmarillion.webp"
+        ]
+    },
+    {
+        "id": "d4c5d014-9c32-4747-91e9-ff2d1df81a58",
+        "title": "El Hobbit",
+        "description": "La precuela de El señor de los anillos, donde Bilbo Bolsón vive una gran aventura en busca de un tesoro robado por un dragón.",
+        "code": "LOTR005",
+        "price": 9000,
+        "status": true,
+        "stock": 3,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/elhobbit.webp"
+        ]
+    },
+    {
+        "id": "2e4dc7d1-1c5b-48df-8150-b365bc3c6c99",
+        "title": "Dune",
+        "description": "Primera novela de la saga Dune, que narra la historia de Paul Atreides y su ascenso al poder en un planeta desértico lleno de intrigas políticas.",
+        "code": "DUNE001",
+        "price": 9000,
+        "status": true,
+        "stock": 5,
+        "category": "Ciencia Ficción",
+        "thumbnails": [
+            "./assets/dune1.webp"
+        ]
+    },
+    {
+        "id": "9a605fb1-8c41-43c0-b159-205a0226f75c",
+        "title": "El mesías de Dune",
+        "description": "Segunda parte de la saga de Dune, donde Paul Atreides enfrenta los desafíos de gobernar como el nuevo emperador.",
+        "code": "DUNE002",
+        "price": 9200,
+        "status": true,
+        "stock": 5,
+        "category": "Ciencia Ficción",
+        "thumbnails": [
+            "./assets/dune2.webp"
+        ]
+    },
+    {
+        "id": "f2435dc1-b10a-4fd7-93bc-84921779d2c7",
+        "title": "Hijos de Dune",
+        "description": "La tercera novela de la saga de Dune, que sigue a los hijos de Paul Atreides mientras se enfrentan a nuevas amenazas.",
+        "code": "DUNE003",
+        "price": 8200,
+        "status": true,
+        "stock": 5,
+        "category": "Ciencia Ficción",
+        "thumbnails": [
+            "./assets/dune3.webp"
+        ]
+    },
+    {
+        "id": "59db514a-56b5-4bc3-b9c2-bf19f4b5fa95",
+        "title": "Dios Emperador de Dune",
+        "description": "La cuarta novela de la saga de Dune, donde la transformación de Leto II tiene profundas consecuencias para el imperio.",
+        "code": "DUNE004",
+        "price": 7800,
+        "status": true,
+        "stock": 5,
+        "category": "Ciencia Ficción",
+        "thumbnails": [
+            "./assets/dune4.webp"
+        ]
+    },
+    {
+        "id": "b4a0c080-c8a1-4075-9d62-3b4b10ac731e",
+        "title": "Harry Potter y la piedra filosofal",
+        "description": "Primer libro de la saga Harry Potter, donde Harry descubre que es un mago y comienza su aventura en Hogwarts.",
+        "code": "HP001",
+        "price": 7500,
+        "status": true,
+        "stock": 1,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp1.webp"
+        ]
+    },
+    {
+        "id": "195ecee8-c73a-4b77-a07b-016ef04be8da",
+        "title": "Harry Potter y la cámara secreta",
+        "description": "Segunda entrega de la saga Harry Potter, donde Harry y sus amigos investigan los misteriosos ataques en Hogwarts.",
+        "code": "HP002",
+        "price": 8150,
+        "status": true,
+        "stock": 7,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp2.webp"
+        ]
+    },
+    {
+        "id": "c7b4c7d6-b4ab-41f8-bdbe-59363ef7a216",
+        "title": "Harry Potter y el prisionero de Azkaban",
+        "description": "Harry se enfrenta a Sirius Black, un prisionero fugado que aparentemente busca matarlo.",
+        "code": "HP003",
+        "price": 8000,
+        "status": true,
+        "stock": 10,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp3.webp"
+        ]
+    },
+    {
+        "id": "76f4e1c3-08b6-4645-9b74-d4f7c14ab38c",
+        "title": "Harry Potter y el cáliz de fuego",
+        "description": "Harry es inscrito misteriosamente en el Torneo de los Tres Magos, enfrentándose a grandes peligros.",
+        "code": "HP004",
+        "price": 10000,
+        "status": true,
+        "stock": 2,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp4.webp"
+        ]
+    },
+    {
+        "id": "9cc9a785-1a71-421b-9995-d31d5a3b8db6",
+        "title": "Harry Potter y la orden del fénix",
+        "description": "Quinta entrega de la saga Harry Potter, donde Harry y sus amigos forman la Orden del Fénix para luchar contra Voldemort.",
+        "code": "HP005",
+        "price": 7500,
+        "status": true,
+        "stock": 8,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp5.webp"
+        ]
+    },
+    {
+        "id": "697c21b1-287f-4818-9255-f41650b230c7",
+        "title": "Harry Potter y el misterio del príncipe",
+        "description": "Sexta entrega de la saga Harry Potter, donde Harry descubre más sobre el pasado de Voldemort y se prepara para la batalla final.",
+        "code": "HP006",
+        "price": 9400,
+        "status": true,
+        "stock": 4,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp6.webp"
+        ]
+    },
+    {
+        "id": "ce2a94d4-727e-4ae4-8a0c-187f04e2ab67",
+        "title": "Harry Potter y las reliquias de la muerte",
+        "description": "Séptimo y último libro de la saga, en el que Harry lucha contra Voldemort por última vez y busca destruir los Horrocruxes.",
+        "code": "HP007",
+        "price": 10500,
+        "status": true,
+        "stock": 1,
+        "category": "Fantasía",
+        "thumbnails": [
+            "./assets/hp7.webp"
+        ]
+    }
+]
