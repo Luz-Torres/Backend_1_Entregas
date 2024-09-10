@@ -1,6 +1,8 @@
 ### E-commerce Server API
-<p>Este repositorio contiene el código de un servidor para gestionar productos y carritos de compra en un e-commerce, desarrollado en Node.js y Express. El servidor proporciona endpoints para interactuar con productos y carritos de manera sencilla, con persistencia de datos en archivos JSON utilizando el sistema de archivos.</p>
+Este repositorio contiene el código de un servidor para gestionar productos y carritos de compra en un e-commerce, desarrollado en Node.js y Express. El servidor proporciona endpoints para interactuar con productos y carritos de manera sencilla, con persistencia de datos en archivos JSON utilizando el sistema de archivos.
+
 ### ESTRUCTURA DE CARPETAS
+
 /ecommerce-api
 │
 ├── /routes
