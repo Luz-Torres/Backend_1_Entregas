@@ -1,4 +1,4 @@
-### E-commerce Server API
+### E-COMMERCE SERVER API
 Este repositorio contiene el código de un servidor para gestionar productos y carritos de compra en un e-commerce, desarrollado en Node.js y Express. El servidor proporciona endpoints para interactuar con productos y carritos de manera sencilla, con persistencia de datos en archivos JSON utilizando el sistema de archivos.
 
 ### ESTRUCTURA DE CARPETAS
@@ -15,7 +15,7 @@ Este repositorio contiene el código de un servidor para gestionar productos y c
 └── package.json
 
 
-### Endpoints
+### ENDPOINTS
 Productos (/api/products/)
 Este grupo de rutas permite gestionar los productos en la base de datos. Los productos contienen información como título, descripción, código, precio, y más.
 
@@ -42,7 +42,7 @@ id: Autogenerado.
 products: Array de productos (inicialmente vacío).
 GET /:cid: Lista los productos del carrito con el id especificado.
 POST /:cid/product/:pid: Agrega un producto al carrito seleccionado. Si el producto ya existe en el carrito, incrementa su cantidad en uno.
-Persistencia
+### PERSISTENCIA
 La información de productos y carritos se almacena en archivos JSON:
 
 productos.json
