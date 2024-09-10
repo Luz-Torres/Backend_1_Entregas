@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luz Torres",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
     "uuid": "^10.0.0"
-  }
+  },
+  "type":"module"
 }
