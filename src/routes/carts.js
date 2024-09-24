@@ -4,7 +4,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import { v4 as uuidv4 } from 'uuid';
 
 // Crear un nuevo carrito
-router.post('/', (req, res) => {
+router.post('/', (_req, res) => {
     const carts = JSON.parse(readFileSync('./data/carts.json'));
     const newCart = {
         id: uuidv4(),

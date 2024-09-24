@@ -1,9 +1,10 @@
 import { Router } from 'express';
-const router = Router();
 import { readFileSync, writeFileSync } from 'fs';
 import { v4 as uuidv4 } from 'uuid';
 
-// Ruta GET para listar todos los productos
+const router = Router();
+
+// Ruta GET para lista todos los productos
 router.get('/', (req, res) => {
     const products = JSON.parse(readFileSync('./data/products.json'));
     const limit = req.query.limit ? parseInt(req.query.limit) : products.length;
